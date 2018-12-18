@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/22166503/50136220-06ae8880-02d2-11e9-9983-36f606fd3c67.png)
-
-
 HttpRunnerManager
 =================
 
